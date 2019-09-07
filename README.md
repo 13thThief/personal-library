@@ -10,4 +10,4 @@ Project Personal Library
 4) You will add any security features to `server.js`
 5) You will create all of the functional tests in `tests/2_functional-tests.js`
 
-
+<code>Note: Only the logic and tests are added, the project structure is forked from the already provided repository</code>
