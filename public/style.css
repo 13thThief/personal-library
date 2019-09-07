@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  margin: auto;
+  max-width: 750px;
+  word-wrap: break-word;
+}
+
+.border {
+  border-style: inset;
+  border-width: 1px;
+  margin: 10px;
+}
+
+#sampleui {
+  max-width: 450px;
+  margin-left: 5%;
+  height: 100%;
+}
+
+#sampleposting {
+  max-width: 450px;
+  text-align: center;
+  margin-left: 5%;
+}
+
+#userstories {
+  margin-left: 5%;
+}
+
+form {
+  padding: 5px;
+}

@@ -1,0 +1,33 @@
+{
+	"name": "personal-library",
+	"version": "0.0.1",
+	"description": "Personal Library FCC",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"chai": "^3.5.0",
+		"chai-http": "^3.0.0",
+		"cors": "^2.8.1",
+		"dotenv": "^8.1.0",
+		"express": "^4.14.0",
+		"helmet": "^3.1.0",
+		"mocha": "^3.2.0",
+		"mongodb": "^2.2.16",
+		"zombie": "^5.0.5"
+	},
+	"engines": {
+		"node": "4.4.3"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/13thThief/personal-library"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
+	"license": "MIT"
+}
